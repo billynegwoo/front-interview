@@ -15,7 +15,7 @@ const Index: FunctionComponent = () => {
           will have to be sorted by date
         </li>
         <li>
-          I'll we a plus if articles are SEO friendly (render by the server side)
+          I'll be a plus if articles are SEO friendly (render by the server side)
         </li>
         <li>Implement a search bar to filter the articles by their names
         </li>
